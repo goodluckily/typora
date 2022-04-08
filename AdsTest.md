@@ -5,11 +5,9 @@ typora-copy-images-to: upload
 
 ###### 环境:101
 
-###### 浏览器: Edge
+###### 浏览器: Edge:blush:
 
 ###### 广告项目功能检查,以及相关问题解决
-
-
 
 1. ##### Campaign添加/修改遇到的问题
 
