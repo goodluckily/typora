@@ -1,5 +1,6 @@
 ---
 typora-copy-images-to: upload
+
 ---
 
 ###### 环境:101
@@ -73,19 +74,22 @@ typora-copy-images-to: upload
 ##### 2.单条操作
 
 1. Profile列表
-   1. Modify Budget修改
-2.   Portfolio列表
-   1. 编辑操作
-   2. Add Campaigns操作
+   1. Modify Budget修改	 ==OK==
+2. Portfolio列表
+   1. 编辑操作 	==OK==
+      1. Add Campaigns操作 ==OK==
 3. Campaign列表
-   1. Status状态修改
-   2. Edit Campaign
-   3. Modify Binding To Portfolio
-   4. Add AdGroup
-   5. Add SKU
-   6. Add Keywords
-   7. Add Negative Keywords
-   8. Add Negative Products
+   1. Status状态修改	==OK==
+   2. Edit Campaign 	==OK==
+   3. Modify Binding To Portfolio ==OK==
+      1. 出现问题已经修复
+      2. ![image-20220408134053416](http://qiniu.binxixi.com//image-20220408134053416.png)
+   4. Add AdGroup ==OK==
+   5. Add SKU ==OK==
+      1. 同步是多线程出现异常,当传入确定的Id时,暂不需要多线程同步数据
+   6. Add Keywords ==OK==
+   7. Add Negative Keywords ==OK==
+   8. Add Negative Products ==OK==
 4. AdGroup列表
    1. Status状态修改
    2. Default Bid修改
